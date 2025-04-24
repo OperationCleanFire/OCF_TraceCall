@@ -5,7 +5,7 @@ import sys
 import os
 
 # Your AbstractAPI key (for phone number validation)
-API_KEY = "957d9c2310f241c89553ddd116cdb4ae"
+API_KEY = ""
 
 def simulate_trace_animation():
     stages = [
